@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zkbeoQTdB/iEMfztb176+anWd/3kDLbAtsQicudU9bE=",
+  "Source": "MarsRobot.Api",
+  "BasePath": "_content/MarsRobot.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
