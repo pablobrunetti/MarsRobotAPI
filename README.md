@@ -22,8 +22,8 @@ See the description detailed in [Wiki](https://github.com/pablobrunetti/MarsRobo
 ## Input
     [POST]
     {
-        "grid": "FFRFLFLF",
-        "commands": "5x5"
+        "grid": "5x5",
+        "commands": "FFRFLFLF"
     }
 
 Grid accept only characteres L, R or F
