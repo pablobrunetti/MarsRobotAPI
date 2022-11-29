@@ -1,0 +1,14 @@
+/.vs
+/.vscode
+
+/src/MarsRobot/.vs/
+/src/MarsRobot/.vscode/
+
+/src/MarsRobot/obj
+/src/MarsRobot/bin
+
+
+test/MarsRobot.test/obj
+test/MarsRobot.test/bin
+
+

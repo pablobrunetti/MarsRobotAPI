@@ -14,4 +14,18 @@ See the description detailed in [Wiki](https://github.com/pablobrunetti/MarsRobo
 * xunit
 * Microsoft.NET.Test.Sdk
 
+## Run
 
+    cd MarsRobot
+    dotnet run
+
+## Input
+    [POST]
+    {
+        "grid": "FFRFLFLF",
+        "commands": "5x5"
+    }
+
+Grid accept only characteres L, R or F
+
+Commands accept only input in format IntegerxInteger, and Integer > 0
